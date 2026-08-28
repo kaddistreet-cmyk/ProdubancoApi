@@ -1,0 +1,3 @@
+CREATE SEQUENCE IF NOT EXISTS public.movimiento_comprobante_seq
+START WITH 1000000
+INCREMENT BY 1;
